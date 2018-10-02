@@ -5,14 +5,14 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version:
   Ruby 2.3.3,
   Rails 5.1.6.
 
-* Ruby version
+* Ruby version:
   SQLite 3.
 
-* GEMS
+* GEMS:
   Carrierwave,
   Puma,
   Bootstrap.
