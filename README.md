@@ -1,9 +1,16 @@
-# README
+# Rails Girls Kraljevo
+* 29. i 30. Septembar 2018.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Kroz dvodnevnu radionicu koja je održana u Kraljevu na Mašinskom fakultetu polaznice su imale priliku da se upoznaju sa osnovama web programiranja koristeći programski jezik Ruby. Uz mentorski tim koji je uvek tu da podeli znanje i odgovori na sva pitanja polaznice su pomoću Ruby programskog jezika stvorile svoju prvu web aplikaciju.
 
-Things you may want to cover:
+* Korišćene tehnologije:
+
+* Editor:
+  Atom
+
+* Node.js
+
+* GitBash and Git
 
 * Ruby version:
   Ruby 2.3.3,
