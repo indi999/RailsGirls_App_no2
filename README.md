@@ -6,19 +6,17 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+  Ruby 2.3.3,
+  Rails 5.1.6.
 
-* System dependencies
+* Ruby version
+  SQLite 3.
 
-* Configuration
+* GEMS
+  Carrierwave,
+  Puma,
+  Bootstrap.
 
-* Database creation
 
-* Database initialization
+  
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
